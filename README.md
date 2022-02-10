@@ -18,4 +18,4 @@
 
 
 
-<a href="https://github.com/g4s8"><img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=g4s8&show_icons=true&hide_border=true&hide_title=true&hide_rank=true" /></a>
+<a href="https://github.com/g4s8"><img align="left" alt="Github Stats" src="https://raw.githubusercontent.com/g4s8/github-stats/master/generated/overview.svg"/></a>
