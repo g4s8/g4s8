@@ -1,6 +1,6 @@
 ### Hi, I'm Kirill
 
-- Currently I'm working as architect in [DeGitX] and [Artipie] projects
+- Maintainer of [@cqfn] and [@Artipie] OSS organizations
 - I ocassionally write [Blog] posts
 - I'm asking and answering questions on [StackOverflow]
 
@@ -12,8 +12,8 @@
  - Twitter: [@kirill_g4s8](https://twitter.com/kirill_g4s8/)
  - Linkedin: [in/kirill-che]
 
-[DeGitX]: https://github.com/cqfn/degitx
-[Artipie]: https://github.com/artipie
+[@cqfn]: https://github.com/cqfn
+[@Artipie]: https://github.com/artipie
 [Blog]: https://www.g4s8.wtf
 [StackOverflow]: https://stackoverflow.com/users/1723695/kirill
 [in/kirill-che]: https://www.linkedin.com/in/kirill-che
