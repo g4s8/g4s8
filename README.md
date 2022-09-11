@@ -1,8 +1,8 @@
 ### Hi, I'm Kirill
 
-- Maintainer of [@cqfn] and [@Artipie] OSS organizations
-- I ocassionally write [Blog] posts
-- I'm asking and answering questions on [StackOverflow]
+I’m software engineer oriented for distributed and parallel systems, P2P systems, high-load data applications, reactive systems, low-latency programming.
+
+Also, I’m ocassionally writing blog posts here: [g4s8.wtf/posts](https://g4s8.wtf/posts/)
 
 <a href="https://stackexchange.com/users/1909497"><img src="https://stackexchange.com/users/flair/1909497.png" width="208" height="58" alt="profile for Kirill on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Kirill on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
@@ -12,8 +12,6 @@
  - Twitter: [@kirill_g4s8](https://twitter.com/kirill_g4s8/)
  - Linkedin: [in/kirill-che]
 
-[@cqfn]: https://github.com/cqfn
-[@Artipie]: https://github.com/artipie
 [Blog]: https://www.g4s8.wtf
 [StackOverflow]: https://stackoverflow.com/users/1723695/kirill
 [in/kirill-che]: https://www.linkedin.com/in/kirill-che
