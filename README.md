@@ -6,8 +6,7 @@ Also, I’m ocassionally writing blog posts here: [g4s8.wtf/posts](https://g4s8.
 
 ### Contact me
  - Via email: [g4s8.public@gmail.com](mailto:g4s8.public@gmail.com)
- - In Telegram: [@kirill_g4s8](https://t.me/kirill_g4s8)
- - Twitter: [@kirill_g4s8](https://twitter.com/kirill_g4s8/)
+ - In Telegram: [@kiryll_che](https://t.me/kiryll_che)
  - Linkedin: [in/kirill-che]
 
 [Blog]: https://www.g4s8.wtf
