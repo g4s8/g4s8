@@ -9,9 +9,8 @@ Also, I’m ocassionally writing blog posts here: [g4s8.wtf/posts](https://g4s8.
  - In Telegram: [@kiryll_che](https://t.me/kiryll_che)
  - Linkedin: [in/kirill-che]
  - Twitter: [@kiryll_che](https://twitter.com/kiryll_che)
+ - StackOverflow: [users/kirill](https://stackoverflow.com/users/1723695/kirill)
 
-[Blog]: https://www.g4s8.wtf
-[StackOverflow]: https://stackoverflow.com/users/1723695/kirill
 [in/kirill-che]: https://www.linkedin.com/in/kirill-che
 
 <a href="https://stackexchange.com/users/1909497"><img src="https://stackexchange.com/users/flair/1909497.png" width="208" height="58" alt="profile for Kirill on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Kirill on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
