@@ -4,6 +4,8 @@ I’m software engineer oriented for distributed and parallel systems, P2P syste
 
 Also, I’m ocassionally writing blog posts here: [g4s8.wtf/posts](https://g4s8.wtf/posts/)
 
+My full CV [pdf](https://g4s8.wtf/cv-kirill-cherniavskiy.pdf).
+
 ### Contact me
  - Via email: [g4s8.public@gmail.com](mailto:g4s8.public@gmail.com)
  - In Telegram: [@kiryll_che](https://t.me/kiryll_che)
