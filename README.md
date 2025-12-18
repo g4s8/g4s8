@@ -10,7 +10,6 @@ My full CV [pdf](https://g4s8.wtf/cv-kirill-cherniavskiy.pdf).
  - Via email: [g4s8.public@gmail.com](mailto:g4s8.public@gmail.com)
  - In Telegram: [@kiryll_che](https://t.me/kiryll_che)
  - Linkedin: [in/kirill-che]
- - Twitter: [@kiryll_che](https://twitter.com/kiryll_che)
  - StackOverflow: [users/kirill](https://stackoverflow.com/users/1723695/kirill)
 
 [in/kirill-che]: https://www.linkedin.com/in/kirill-che
